@@ -1,0 +1,15 @@
+<RCC>
+    <qresource lang="img" prefix="/new/prefix1">
+        <file>formulas/A.png</file>
+        <file>formulas/C.png</file>
+        <file>formulas/P.png</file>
+        <file>formulas/2019-02-27_20-38-38.png</file>
+        <file>formulas/2019-02-27_20-38-54.png</file>
+        <file>formulas/2019-02-27_20-39-25.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>tasks/task1.png</file>
+        <file>tasks/task2.png</file>
+        <file>tasks/task2NEW.png</file>
+    </qresource>
+</RCC>

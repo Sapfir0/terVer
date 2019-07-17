@@ -1,0 +1,29 @@
+{
+    "type":"TypeParallel",
+    "values": [
+        {
+            "type":"TypeSerial",
+            "values":[
+                "q1","q2","q3"
+            ]
+        },
+        {
+            "type":"TypeSerial",
+            "values":[
+                "q4","q5"
+            ]
+        },
+        {
+            "type":"TypeSerial",
+            "values":[
+                "q6",
+                {
+                    "type":"TypeParallel",
+                    "values":[
+                        "q7", "q8"
+                    ]
+                }
+            ]
+        }
+    ]
+}

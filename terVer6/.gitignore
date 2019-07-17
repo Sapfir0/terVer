@@ -1,0 +1,5 @@
+__pycache__
+build
+.vscode
+mainwindow_rc
+mainwindow_rc.py

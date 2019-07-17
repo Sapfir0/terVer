@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/formula_1.bmp</file>
+        <file>img/formula_2.bmp</file>
+    </qresource>
+</RCC>
